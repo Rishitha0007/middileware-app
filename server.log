@@ -1,0 +1,2 @@
+GET /api/v1/patients 200 18ms
+GET /favicon.ico 404 2ms
